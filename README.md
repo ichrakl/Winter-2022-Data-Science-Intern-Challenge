@@ -14,4 +14,3 @@ Question 2: For this question we need to use SQL: https://www.w3schools.com/SQL/
 a.How many orders were shipped by Speedy Express in total?
 b.What is the last name of the employee with the most orders?
 c.What product was ordered the most by customers in Germany?
-
